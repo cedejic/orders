@@ -24,6 +24,9 @@ http://localhost:8080/swagger-ui/
 On web service startup basic actuator is available on  
 http://localhost:8080/actuator
 
+### POSTMAN REQUESTS
+Postman requests collection is available in folder postman 
+
 ### QA
 <ol>
 <li> 
